@@ -7,15 +7,23 @@ mongodb的使用教程，网上教程甚多，这里就不进行赘述了
 运行项目
 
 cd react-koa2-mongodb
+
 npm i
+
 cd server
+
 npm i
+
 nodemon koa2.js
 
 
+
 另起一个窗口
+
 cd react-koa2-mongodb
+
 npm start
+
 
 即可看到完整效果
 
